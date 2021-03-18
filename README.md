@@ -1,3 +1,3 @@
 <h1>テスト<h1>
-<h2>これはテストリポジトリです</h2>
+<p>これはテストリポジトリです</p>
 <a href="https://jam3748.github.io/GithubPagesTest/">test</a>
