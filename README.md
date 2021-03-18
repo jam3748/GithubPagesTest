@@ -1,4 +1,6 @@
 # テスト
 ## テスト
 これはテストリポジトリです  
-[test](https://jam3748.github.io/GithubPagesTest/)
+
+# リンク
+[これはリンクのテストです](https://jam3748.github.io/GithubPagesTest/)
