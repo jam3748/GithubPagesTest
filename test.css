@@ -17,7 +17,7 @@
   display: inline-block;
 }
 
-.sample3:before, h1:after { 
+.sample3:before, .sample3:after { 
   content:'';
   width: 20px;
   height: 30px;
