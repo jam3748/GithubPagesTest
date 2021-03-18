@@ -1,5 +1,5 @@
 ## テスト
 これはテストリポジトリです  
 
-# リンク
+## リンク
 [これはリンクのテストです](https://jam3748.github.io/GithubPagesTest/)
