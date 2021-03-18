@@ -1,11 +1,40 @@
-h1 {
+.sample1 {
   background: linear-gradient(transparent 70%, #a7d6ff 70%);
 }
 
-h2 {
+.sample2 {
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
   color: #494949;/*文字色*/
   background: #f4f4f4;/*背景色*/
   border-left: solid 5px #7db4e6;/*左線*/
   border-bottom: solid 3px #d7d7d7;/*下線*/
+}
+
+.sample3 {
+  position: relative;
+  line-height: 1.4;
+  padding:0.25em 1em;
+  display: inline-block;
+}
+
+.sample3:before, h1:after { 
+  content:'';
+  width: 20px;
+  height: 30px;
+  position: absolute;
+  display: inline-block;
+}
+
+.sample3:before {
+  border-left: solid 1px #ff5722;
+  border-top: solid 1px #ff5722;
+  top:0;
+  left: 0;
+}
+
+.sample3:after {
+  border-right: solid 1px #ff5722;
+  border-bottom: solid 1px #ff5722;
+  bottom:0;
+  right: 0;
 }
